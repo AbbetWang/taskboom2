@@ -1,0 +1,23 @@
+{
+  "name": "taskboom2",
+  "version": "0.1.0",
+  "description": "a task system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favorlm/taskboom2.git"
+  },
+  "keywords": [
+    "task",
+    "restful"
+  ],
+  "author": "wangjun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/favorlm/taskboom2/issues"
+  },
+  "homepage": "https://github.com/favorlm/taskboom2#readme"
+}
